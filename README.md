@@ -15,7 +15,7 @@
 </p>
 
 * 🌍  I'm based in Tra Vinh, Viet Nam.
-* ✉️  You can contact me at [dhiep2307@gmail.com.](mailto:dhiep2307@gmail.com.)
+* ✉️  You can contact me at [tramkhoinguyen2712@gmail.com.](mailto:tramkhoinguyen2712@gmail.com.)
 * 🧠  I'm learning .NET Framework and Flutter.
 * 🤝  I'm open to collaborating on web and mobile app projects.
 <h1></h1>
