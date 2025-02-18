@@ -3,7 +3,7 @@
 
 <h1 align="center">Hi 👋, I'm Khoi Nguyen</h1>
 
-<p>I am a programmer who can spend hours talking and doing about programming related topics. Starting my journey with C++, I have expanded my knowledge and worked with many different languages ​​such as Javascript, PHP and C#. Every day is an opportunity for me to explore new things in programming and technology.</p>
+<p>I'm a .NET Framework developer who is passionate about tackling complex and impactful software projects. I specialize in back-end development and leverage .NET Framework to create robust, scalable applications. I enjoy exploring new technologies and continuously enhancing my skills while collaborating on exciting projects.</p>
 <h3 align="center" >Contact me</h3>
 <p align="center">
   <a href="https://www.facebook.com/khoinguyen2701/">
@@ -17,7 +17,7 @@
 * 🌍  I'm based in Tra Vinh, Viet Nam.
 * ✉️  You can contact me at [tramkhoinguyen2712@gmail.com.](mailto:tramkhoinguyen2712@gmail.com.)
 * 🧠  I'm learning .NET Framework and Flutter.
-* 🤝  I'm open to collaborating on web and mobile app projects.
+* 🤝  I'm open to collaborating on web and software development projects.
 <h1></h1>
 <h3 align="center" >Software and Technology</h3>
 <p align="center">
