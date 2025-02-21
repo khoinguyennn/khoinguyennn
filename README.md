@@ -3,7 +3,7 @@
 
 <h1 align="center">Hi 👋, I'm Khoi Nguyen</h1>
 
-<p>I'm a .NET Framework developer who is passionate about tackling complex and impactful software projects. I specialize in back-end development and leverage .NET Framework to create robust, scalable applications. I enjoy exploring new technologies and continuously enhancing my skills while collaborating on exciting projects.</p>
+<p>I'm a .NET developer who is passionate about tackling complex and impactful software projects. I specialize in back-end development and leverage .NET Framework to create robust, scalable applications. I enjoy exploring new technologies and continuously enhancing my skills while collaborating on exciting projects.</p>
 <h3 align="center" >Contact me</h3>
 <p align="center">
   <a href="https://www.facebook.com/khoinguyen2701/">
