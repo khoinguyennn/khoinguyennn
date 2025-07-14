@@ -12,7 +12,7 @@
 
 **FB: https://www.facebook.com/khoinguyen2701**
 
-**X: https://x.com/nguyenanhtuan__**
+**X: https://x.com/tramkhoinguyen**
 
 **Linkedin: https://linkedin.com/in/tramkhoinguyen**
 
