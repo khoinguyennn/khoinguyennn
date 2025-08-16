@@ -8,7 +8,7 @@
 
 💞️ I'm looking to collaborate on open source projects related to web development, especially those focused on accessibility and performance.
 
-📫 You can contact me via email at **tramkhoinguyen27122@gmail.com** or connect with me on:
+📫 You can contact me via email at **tramkhoinguyen.dev@gmail.com** or connect with me on:
 
 **FB: https://www.facebook.com/khoinguyen2701**
 
